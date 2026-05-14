@@ -1,0 +1,23 @@
+{
+  "name": "PV en Poche GN",
+  "short_name": "PV Poche",
+  "description": "Guide mobile pour la Pharmacovigilance",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1E7FB8",
+  "icons": [
+    {
+      "src": "/dnpm.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/dnpm.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
